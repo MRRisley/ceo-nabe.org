@@ -1,4 +1,5 @@
 # ceo-nabe.org
 Website for Cincinnati Economics Organization
 
-*Under Construction*
+[ceo-nabe.org](ceo-nabe.org)
+
